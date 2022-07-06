@@ -1,0 +1,1 @@
+RegisterKeyMapping("tx", "txAdmin Menu", "keyboard", "F11")
